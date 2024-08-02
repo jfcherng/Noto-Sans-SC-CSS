@@ -1,6 +1,6 @@
 {
   "name": "noto-sans-sc",
-  "version": "36.0.1",
+  "version": "37.0.0",
   "description": "(Noto Sans SC) Optimized CSS file and font files for local host.",
   "dependencies": {},
   "devDependencies": {},
